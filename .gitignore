@@ -1,3 +1,4 @@
 .env.dev
 .working.js
 hills-app-test-db-5499130e1757.json
+*node_modules
