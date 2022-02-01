@@ -36,9 +36,9 @@ https://github.com/back-jond1992/climbly-frontend.git
 
 The front end for this application was built with
 
-Node.js
-React Native
-Expo
+Node.js<br/>
+React Native<br/>
+Expo<br/>
 Axios
 
 <h2>Backend</h2>
